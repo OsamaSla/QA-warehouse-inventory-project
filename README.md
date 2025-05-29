@@ -55,7 +55,3 @@
 
 למידע נוסף ולעיון בכל הקבצים בפרויקט:  
 [לצפייה בכל הקבצים ב-GitHub](https://github.com/OsamaSla/QA-warehouse-inventory-project/tree/main)
-
----
-
-אם תרצה התאמות נוספות או הדגשה לנושאים מסוימים, אשמח לעדכן.
