@@ -15,7 +15,7 @@
 - [מענה על דוח תלונות לקוח.docx](https://github.com/OsamaSla/QA-warehouse-inventory-project/blob/main/%D7%9E%D7%A2%D7%A0%D7%94%20%D7%A2%D7%9C%20%D7%93%D7%95%D7%97%20%D7%AA%D7%9C%D7%95%D7%A0%D7%95%D7%AA%20%D7%9C%D7%A7%D7%95%D7%97.docx): מענה מסודר לתלונות לקוח.
 
 ---
-<div dir="rtl">
+
 ## שלבי העבודה בפרויקט
 1. **הקמת צוות**
    - כל צוות מורכב מראש צוות ו-3 בודקי תוכנה.
